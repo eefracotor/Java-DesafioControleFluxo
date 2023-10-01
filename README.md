@@ -7,8 +7,8 @@
 
 <div style="display:flex;justify-content:center;aling-items:center;flex-direction:row;matgin-left:50px">
     <img src="https://logodownload.org/wp-content/uploads/2022/05/brazil-flag-bandeira-1.png" alt="Bandeira do Brasil" width="35" height="25">
-    <p style="heigth:25px;margin:auto 15px;">Português</p>
-</div>
+    <!-- <p style="heigth:25px;margin:auto 15px;">Português</p> -->
+</div>##Portugês
 
 Este projeto demonstra a aplicação dos conceitos aprendidos no módulo de Controle de Fluxo do Java. Foi desenvolvido um programa que aborda o seguinte cenário:
 
