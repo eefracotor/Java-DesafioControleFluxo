@@ -1,13 +1,12 @@
-# [Controle de Fluxo - Desafio](https://github.com/eefracotor/Java-DesafioControleFluxo)
+# Controle de Fluxo - Desafio
 [www.dio.me](http://www.dio.me/)
-<br>
+<!-- <br>
 <br>
 <hr color="grey" size=".5" width="75%" align="center">
-<br>
+<br> -->
 
 <div style="display:flex;justify-content:center;aling-items:center;flex-direction:row;matgin-left:50px">
     <img src="https://logodownload.org/wp-content/uploads/2022/05/brazil-flag-bandeira-1.png" alt="Bandeira do Brasil" width="35" height="25">
-    <!-- <p style="heigth:25px;margin:auto 15px;">Português</p> -->
 </div> 
 
 ## Portugês
@@ -25,8 +24,9 @@ Este projeto serve como um exemplo prático de como gerenciar o fluxo de um prog
 
 <div style="display:flex;justify-content:center;aling-items:center;flex-direction:row;matgin-left:50px">
     <img src="https://i.pinimg.com/originals/40/b5/15/40b515ae06d9f51a35087bb2cf974245.png" alt="Bandera de España" width="35" height="25">
-    <p style="heigth:25px;margin:auto 15px;">Español</p>
 </div>
+
+## Español
 
 Este proyecto demuestra la aplicación de los conceptos aprendidos en el módulo de Control de Flujo de Java. Se ha desarrollado un programa que aborda el siguiente escenario:
 
@@ -41,8 +41,9 @@ Este proyecto sirve como ejemplo práctico de cómo gestionar el flujo de un pro
 
 <div style="display:flex;justify-content:center;aling-items:center;flex-direction:row;matgin-left:50px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" alt="Flag oof EE.UU" width="35" height="25">
-    <p style="heigth:25px;margin:auto 15px;">English</p>
 </div>
+
+## English
 
 This project demonstrates the application of the concepts learned in the Java Control Flow module. A program has been developed to address the following scenario:
 
