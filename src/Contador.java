@@ -16,7 +16,6 @@ public class Contador {
 		}  finally {
             terminal.close(); 
         }
-		
 	}
 
 	static void contar(int parametroUm, int parametroDois ) throws ParametrosInvalidosException {
